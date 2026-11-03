@@ -1,6 +1,6 @@
 # Hi, I'm Habiba Rafique 👋
 
-### M.Sc. Student in CSE at BUET | Deep Learning | Human-Centered AI | HCI
+### M.Sc. Student in CSE at BUET | Deep Learning | Human-Centered AI 
 
 <p align="center">
   <a href="https://habiba-2020.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
@@ -14,19 +14,19 @@
 
 ## About Me
 
-I'm a CSE graduate from BUET, now pursuing my M.Sc. there. I'm interested in **Deep Learning, Computer Vision, Human-Centered AI and HCI**. That covers both building and evaluating models and understanding how people interact with and trust AI systems.
+I'm a CSE graduate from BUET, now pursuing my M.Sc. there. I'm interested in **Deep Learning, Human-Centered AI, and HCI**. That covers both building and evaluating models and understanding how people interact with and trust AI systems.
 
-I'm open to research collaborations where I can contribute through paper reading, implementation, experimentation and consistent work.
+I'm open to research collaborations where I can contribute through literature review, research implementation, experimentation, and collaborative problem-solving while continuously developing my research skills.
 
 ---
 
 ## Research
 
 **Hybrid Quantum ML for Skin Lesion Classification** · [IEEE QPAIN 2026](https://ieeexplore.ieee.org/document/11546183)
-A hybrid quantum–classical image classification pipeline built on MobileCLIP features, PCA and quantum circuit classifiers, benchmarked against classical models with ROC analysis.
+A hybrid quantum–classical image classification pipeline built on MobileCLIP features, PCA, and quantum circuit classifiers, benchmarked against classical models with ROC analysis.
 
 **LLM Alignment: RLHF & DPO** · Research Trainee, [AMIRL](https://amirl.org/) · Jul 2025 – Jan 2026
-A systematic literature review comparing online and offline alignment methods on training stability, compute cost and generalization.
+A systematic literature review comparing online and offline alignment methods on training stability, compute cost, and generalization.
 
 **Self-Tracking & Digital Health in Bangladesh** · Undergraduate Thesis · Manuscript in Preparation
 A mixed-methods study with 533 survey participants and 9 interviews. The analysis uses Random Forest and logistic regression with stratified cross-validation, subgroup fairness analysis and embedding-based analysis of open-ended responses.
@@ -40,7 +40,7 @@ A mixed-methods study with 533 survey participants and 9 interviews. The analysi
 | [StuddyBuddy](https://github.com/HABIBARAFIQ/StuddyBuddy) | RAG-based study assistant that answers questions from your own learning materials | RAG, Qdrant, Gemini, Docker, Azure |
 | [AI-ML Practice](https://github.com/HABIBARAFIQ/AI-ML-practice-projects) | Notebooks on image classification, feature engineering and LLM tooling | TensorFlow, scikit-learn, LangChain |
 | [ByteFixers](https://github.com/Learnathon-By-Geeky-Solutions/bytefixers) | Team project management app with AI-assisted features | MERN, Gemini API, Cloudinary |
-| [TourHub](https://github.com/HABIBARAFIQ/TourHub) | Tour booking platform with search, payment and an admin panel | Node.js, Oracle DB, Bootstrap |
+| [TourHub](https://github.com/HABIBARAFIQ/TourHub) | Tour booking platform with search, payment, and an admin panel | Node.js, Oracle DB, Bootstrap |
 
 ---
 
