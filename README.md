@@ -6,7 +6,6 @@
   <a href="https://habiba-2020.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/habiba-rafique"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:habibarafique526@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ieeexplore.ieee.org/document/11546183"><img src="https://img.shields.io/badge/IEEE_QPAIN_2026-000000?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
   <img src="https://komarev.com/ghpvc/?username=HABIBARAFIQ&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
