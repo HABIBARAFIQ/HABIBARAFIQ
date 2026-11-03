@@ -1,6 +1,6 @@
 # Hi, I'm Habiba Rafique 👋
 
-### M.Sc. Student in CSE at BUET | Deep Learning | Human-Centered AI 
+### M.Sc. Student in CSE at BUET  | Human-Centered AI | Deep Learning
 
 <p align="center">
   <a href="https://habiba-2020.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a CSE graduate from BUET, now pursuing my M.Sc. there. I'm interested in **Deep Learning, Human-Centered AI, and HCI**. That covers both building and evaluating models and understanding how people interact with and trust AI systems.
+I'm a CSE graduate from BUET, now pursuing my M.Sc. there. I'm interested in **Human-Centered AI and Deep Learning**. That covers both building and evaluating models and understanding how people interact with and trust AI systems.
 
 I'm open to research collaborations where I can contribute through literature review, research implementation, experimentation, and collaborative problem-solving while continuously developing my research skills.
 
