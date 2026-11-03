@@ -32,7 +32,7 @@ A mixed-methods study with 533 survey participants and 9 interviews. The analysi
 
 ---
 
-## Selected Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
