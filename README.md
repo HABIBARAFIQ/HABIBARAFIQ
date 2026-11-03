@@ -16,7 +16,7 @@
 
 I'm a CSE graduate from BUET, now pursuing my M.Sc. there. I'm interested in **Deep Learning, Computer Vision, Human-Centered AI and HCI**. That covers both building and evaluating models and understanding how people interact with and trust AI systems.
 
-I'm currently strengthening my deep learning foundations through hands-on implementation in **PyTorch**. I'm open to research collaborations where I can contribute through paper reading, implementation, experimentation and consistent work.
+I'm open to research collaborations where I can contribute through paper reading, implementation, experimentation and consistent work.
 
 ---
 
@@ -53,10 +53,4 @@ A mixed-methods study with 533 survey participants and 9 interviews. The analysi
 **LLMs:** RAG · LangChain · Hugging Face · OpenAI API · Gemini API · Qdrant
 **Research:** literature reviews · experimental evaluation · statistical analysis · surveys & interviews
 
----
 
-## Recognition
-
-- 🏆 **1st Runner-Up**, Eco Tech Hackathon 2026 (BUET)
-- 📜 Supervised Machine Learning: Regression and Classification (Coursera)
-- 🎓 Learnathon 3.0 Fresher Training Program (Geeky Solutions)
